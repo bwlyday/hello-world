@@ -1,3 +1,3 @@
 # hello-world
-Learning to properly use GitHub
+Learning to properly use GitHub.
 This is a test of branching.
